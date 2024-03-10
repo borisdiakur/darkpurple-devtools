@@ -1,0 +1,17 @@
+{
+  "name": "darkpurple-devtools",
+  "version": "1.0.0",
+  "description": "Dark Purlpe DevTools Theme",
+  "main": "Gruntfile.js",
+  "license": "MIT",
+  "author": "Boris Diakur (https://borisdiakur.de)",
+  "repository": "borisdiakur/darkpurple-devtools",
+  "packageManager": "pnpm@7.9.5",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-bump": "^0.8.0",
+    "grunt-contrib-compress": "^1.4.3",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
